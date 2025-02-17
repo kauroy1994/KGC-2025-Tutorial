@@ -10,7 +10,7 @@ Neurosymbolic AI is a rapidly evolving and emerging field. In recent works, rese
 
 ## 💡 Intellectual Contributions
 
-* **Knowledge Graphs (KGs)**: Demonstrating how RDF, property graphs, and embeddings handle large-scale, heterogeneous data, offering flexible, machine-friendly interfaces that integrate smoothly with neural encoders and language models.
+* **Knowledge Graphs (KGs)**: Demonstrating how RDF, property graphs, and embeddings handle large-scale, heterogeneous data, offering flexible, machine-friendly interfaces that integrate smoothly with neural encoders and LLMs.
 * **Logic-Based Reasoning**: Introducing formalisms (e.g., first-order logic, Markov Logic Networks) that provide strong semantics and provable inference rules, albeit with potential computational overhead for large-scale tasks.
 * **Description Logics**: Explaining how OWL and other restricted logics balance expressive power with tractable inference, important for enterprise ontology engineering and domain-specific knowledge representation.
 
